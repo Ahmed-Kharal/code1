@@ -30,7 +30,7 @@ const FinalScreen = ({ onReplay }) => {
         </h1>
 
         <p className="text-2xl text-rose-600 mb-10">
-          Ab bas smiles hi smiles heheheh Luuubbb uhhhhh🎉❤️
+          Ab bas smiles hi smiles heheheh Luuubbb uhhhhhh🎉❤️
         </p>
 
         {/* Replay */}
